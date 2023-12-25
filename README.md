@@ -4,10 +4,10 @@
 - My name is Diego Hernandez, I'm a Web developer with a little of graphic designer, Don't be scared!, Welcome to my repository😎😉 
 
 ![imagen acerca de mi](banner.jpg "Banner de un poco sobre mi")
-<!--
-**Kabash87/Kabash87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<hr/>
+Siempre digo que poseo una personalidad dinámica y decidida, me adopto fácil a todos los problemas que se me presenten. Actitud de líder innata, creatividad en cada idea y decidido en mis objetivos, entusiasmo por aprender cada día más algo nueva. Actitud extrovertida en grupos de trabajo y un reto personal de ser el mejor siempre. 😼👊
+<!--
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
