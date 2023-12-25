@@ -10,7 +10,7 @@ Siempre digo que poseo una personalidad dinámica y decidida, me adopto fácil a
 <br/><br/>
 I always say that I have a dynamic and determined personality, I easily adapt to all the problems that arise. Innate leader attitude, creativity in every idea and determined in my objectives, enthusiasm for learning something new every day. Extroverted attitude in work groups and a personal challenge to always be the best. 😼👊
 
-
+<hr/>
 ## Un poco de mis conocimientos. A llitle about what I know...
 
 - HTML & CSS
@@ -22,11 +22,11 @@ I always say that I have a dynamic and determined personality, I easily adapt to
 - Amazon Web Services
 
 <hr/>
-###¿Y que hay sobre mi? What about me?
+### ¿Y que hay sobre mi? What about me?
 
 - 🔭 Estoy en estos momentos realizando un Grado Superior en Desarrollo Multiplataforma /I  am currently doing a Higher Degree in Multiplatform Development
 - 🤔 I’m looking for help with making big proyects 
 - 💬 Ask me about Javascript, Node, React out anything!, I'll help you in what i can
-- 📫 How to reach me: Send me a Email [Mi Correo electrónico](mailto:diegohs1503@gmail.com)
+- 📫 How to reach me: Send me a Email [Write me here!](mailto:diegohs1503@gmail.com)
 - ⚡ Fun fact: I love playing The legend of Zelda, Resident Evil, Silent Hill and Valorant!🎮
   
