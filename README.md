@@ -1,4 +1,7 @@
-### Hi there 👋
+### ¡Hola a todos!, Hi everyone!  👨‍💻🎮
+
+Soy Diego Hernández, soy desarrolloador Web Full Stack con un pequeño toque de diseñador gráfico. ¡No tengas miedo!, bienvenido a mi repositorio😎😉
+My name is Diego Hernandez, I'm a Web developer with a little of graphic designer, Don't be scared!, Welcome to my repository😎😉 
 
 ![imagen acerca de mi](banner.jpg "Banner de un poco sobre mi")
 <!--
