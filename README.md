@@ -2,9 +2,9 @@
 
 - Soy Diego Hernández, soy desarrolloador Web Full Stack con un pequeño toque de diseñador gráfico. ¡No tengas miedo!, bienvenido a mi repositorio😎😉
 - My name is Diego Hernandez, I'm a Web developer with a little of graphic designer, Don't be scared!, Welcome to my repository😎😉 
-
+<center>
 ![imagen acerca de mi](banner.jpg "Banner de un poco sobre mi")
-
+</center>
 <hr/>
 Siempre digo que poseo una personalidad dinámica y decidida, me adopto fácil a todos los problemas que se me presenten. Actitud de líder innata, creatividad en cada idea y decidido en mis objetivos, entusiasmo por aprender cada día más algo nueva. Actitud extrovertida en grupos de trabajo y un reto personal de ser el mejor siempre. 😼👊
 <br/>
