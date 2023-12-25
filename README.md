@@ -20,9 +20,9 @@ I always say that I have a dynamic and determined personality, I easily adapt to
 - React
 - Node JS
 - Amazon Web Services
-
 <hr/>
-### ¿Y que hay sobre mi? What about me?
+
+### What about me? ¿Y que hay sobre mi? 
 
 - 🔭 Estoy en estos momentos realizando un Grado Superior en Desarrollo Multiplataforma /I  am currently doing a Higher Degree in Multiplatform Development
 - 🤔 I’m looking for help with making big proyects 
