@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![imagen acerca de mi](banner.jpg "Banner de un poco sobre mi")
 <!--
 **Kabash87/Kabash87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
