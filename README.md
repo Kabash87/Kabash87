@@ -11,8 +11,8 @@ Siempre digo que poseo una personalidad dinámica y decidida, me adopto fácil a
 I always say that I have a dynamic and determined personality, I easily adapt to all the problems that arise. Innate leader attitude, creativity in every idea and determined in my objectives, enthusiasm for learning something new every day. Extroverted attitude in work groups and a personal challenge to always be the best. 😼👊
 
 <hr/>
-## Un poco de mis conocimientos. A llitle about what I know...
-
+### Un poco de mis conocimientos. A llitle about what I know...
+<br/>
 - HTML & CSS
 - Javascript
 - PHP
