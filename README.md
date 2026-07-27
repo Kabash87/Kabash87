@@ -144,7 +144,7 @@ You can explore more of my projects, experiments, and ideas on my portfolio.
 <tr>
 <td><b>🎵 Music</b></td>
 <td>
-<a href="https://open.spotify.com/user/o504kw1rd0np9i5itgutk6sp5?si=9a8f95052fc24124">My Spotify Profile 🎵</a>
+<a href="https://open.spotify.com/user/o504kw1rd0np9i5itgutk6sp5?si=9a8f95052fc24124" target="_blank">My Spotify Profile 🎵</a>
 
 </td>
 </tr>
