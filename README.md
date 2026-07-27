@@ -13,13 +13,20 @@ Building modern web apps with **Next.js**, **React** and **TypeScript** while ex
 
 I'm Diego, a Full Stack Developer from Spain 🇪🇸.
 
-Currently working as a **Systems Operator at Alcampo**, where I solve technical incidents, automate processes and work with enterprise systems.
+Currently working as a **Systems Operator at Auchan Retail**, where I solve technical incidents, automate processes and work with enterprise systems.
 
 Outside work, I enjoy building personal projects focused on clean architecture, performance and user experience.
 
 I'm always looking for new challenges and opportunities to improve as a developer.
 
 ---
+Soy Diego, Desarrollador Full Stack, saludos desde España 🇪🇸.
+
+Actualmente trabajo como **Operador de Sistemas en Alcampo**, donde resuelvo incidencias, automatizo procesos y trabajo con sistemas empresariales.
+
+Fuera del trabajo disfruto creando proyectos personales centrados en una buena arquitectura, rendimiento y experiencia de usuario.
+
+Siempre estoy buscando nuevos retos para seguir creciendo como desarrollador.
 
 ## Tech Stack
 
@@ -50,38 +57,58 @@ Docker • Linux • Nginx • Git • GitHub Actions
 - 💡 Building personal projects
 
 ---
-
-## Featured Projects
+## 🚀 Featured Projects
 
 ### 🌐 kabash.dev
 
-My personal portfolio built with Next.js.
+My personal portfolio built with **Next.js**, showcasing my projects, skills, and experience through a modern, responsive, and performance-focused design.
 
-Focused on:
+**Highlights:**
 
-- Performance
-- SEO
-- Accessibility
-- Responsive Design
-- Modern UI
+- ⚡ Optimized performance
+- 🎨 Modern UI/UX
+- 📱 Fully responsive
+- 🔍 SEO-friendly
+- ♿ Accessibility best practices
 
 ➡️ https://kabash.dev
 
 ---
 
-## GitHub Stats
+### 🌐 gruponexcom.com
 
-<p align="center">
+A full-stack internal platform developed for **Grupo Nexcom**, designed to simplify project management, task tracking, and team collaboration across the company.
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kabash87&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
+**Features:**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kabash87&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+- 📋 Project & task management
+- 💬 Internal communication
+- 👥 User roles & permissions
+- 📊 Business-oriented dashboard
+- 🔒 Secure authentication
 
-</p>
+➡️ https://gruponexcom.com
 
 ---
 
-> "Code is not only about making it work, but making it understandable."
+### 🌐 aprenderparaserfeliz.com
 
+A website developed for a **non-profit organization**, providing tools for event management, volunteering, donations, and community engagement.
 
-> "El código no solo debe funcionar; también debe ser fácil de entender."
+**Highlights:**
+
+- ❤️ Donation system
+- 📅 Event management
+- 🤝 Volunteer registration
+- 🌍 Responsive design
+- ♿ Accessible experience
+
+➡️ https://aprenderparaserfeliz.com
+
+---
+
+### ✨ And many more...
+
+You can explore more of my projects, experiments, and ideas on my portfolio.
+
+👉 **https://kabash.dev**
