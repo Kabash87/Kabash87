@@ -116,30 +116,68 @@ You can explore more of my projects, experiments, and ideas on my portfolio.
 ---
 ## 🧠 Beyond Code
 
-<p align="center">
 
-<a href="https://store.steampowered.com/">
-<img src="https://cdn.simpleicons.org/steam" width="28"/>
-</a>&nbsp;&nbsp;
+<table>
+<tr>
+<td><b>🎮 Gaming</b></td>
+<td>
 
-<a href="https://myanimelist.net/">
-<img src="https://cdn.simpleicons.org/myanimelist" width="28"/>
-</a>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/steam" width="16"/> Steam •
+<img src="https://cdn.simpleicons.org/riotgames" width="16"/> League of Legends •
+<img src="https://cdn.simpleicons.org/riotgames" width="16"/> VALORANT •
+🗡️ Monster Hunter •
+🧝 Zelda
 
-<a href="https://open.spotify.com/">
-<img src="https://cdn.simpleicons.org/spotify" width="28"/>
-</a>&nbsp;&nbsp;
+</td>
+</tr>
 
-<a href="https://letterboxd.com/">
-<img src="https://cdn.simpleicons.org/letterboxd" width="28"/>
-</a>&nbsp;&nbsp;
+<tr>
+<td><b>🎌 Anime</b></td>
+<td>
 
-<a href="https://www.twitch.tv/">
-<img src="https://cdn.simpleicons.org/twitch" width="28"/>
-</a>
+<img src="https://cdn.simpleicons.org/crunchyroll/F47521" width="16"/> Frieren •
+One Piece •
+Solo Leveling •
+Attack on Titan •
+Chainsaw Man
 
-</p>
+</td>
+</tr>
 
-<p align="center">
-Video Games • Anime • Music • Movies • Streaming
-</p>
+<tr>
+<td><b>🎵 Music</b></td>
+<td>
+
+<img src="https://cdn.simpleicons.org/spotify/1DB954" width="16"/> K-Pop •
+J-Pop •
+Lo-fi •
+Rock •
+Game OSTs
+
+</td>
+</tr>
+
+<tr>
+<td><b>💻 Setup</b></td>
+<td>
+
+<img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="16"/> VS Code •
+<img src="https://cdn.simpleicons.org/windows11/0078D4" width="16"/> Windows •
+<img src="https://cdn.simpleicons.org/linux/FCC624" width="16"/> Linux •
+Mechanical Keyboard ⌨️
+
+</td>
+</tr>
+
+<tr>
+<td><b>☕ Fuel</b></td>
+<td>
+
+Coffee ☕ •
+Coca-Cola 🥤 •
+Late-night coding 🌙
+
+</td>
+</tr>
+
+</table>
