@@ -112,3 +112,34 @@ A website developed for a **non-profit organization**, providing tools for event
 You can explore more of my projects, experiments, and ideas on my portfolio.
 
 👉 **https://kabash.dev**
+
+---
+## 🧠 Beyond Code
+
+<p align="center">
+
+<a href="https://store.steampowered.com/">
+<img src="https://cdn.simpleicons.org/steam" width="28"/>
+</a>&nbsp;&nbsp;
+
+<a href="https://myanimelist.net/">
+<img src="https://cdn.simpleicons.org/myanimelist" width="28"/>
+</a>&nbsp;&nbsp;
+
+<a href="https://open.spotify.com/">
+<img src="https://cdn.simpleicons.org/spotify" width="28"/>
+</a>&nbsp;&nbsp;
+
+<a href="https://letterboxd.com/">
+<img src="https://cdn.simpleicons.org/letterboxd" width="28"/>
+</a>&nbsp;&nbsp;
+
+<a href="https://www.twitch.tv/">
+<img src="https://cdn.simpleicons.org/twitch" width="28"/>
+</a>
+
+</p>
+
+<p align="center">
+Video Games • Anime • Music • Movies • Streaming
+</p>
