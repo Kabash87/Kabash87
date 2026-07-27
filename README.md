@@ -121,13 +121,10 @@ You can explore more of my projects, experiments, and ideas on my portfolio.
 <tr>
 <td><b>🎮 Gaming</b></td>
 <td>
-
-<img src="https://cdn.simpleicons.org/steam" width="16"/> Steam •
-<img src="https://cdn.simpleicons.org/riotgames" width="16"/> League of Legends •
-<img src="https://cdn.simpleicons.org/riotgames" width="16"/> VALORANT •
-🗡️ Monster Hunter •
-🧝 Zelda
-
+• Resident Evil
+• Silent Hill
+• The Legend of Zelda
+• Valorant
 </td>
 </tr>
 
@@ -135,11 +132,11 @@ You can explore more of my projects, experiments, and ideas on my portfolio.
 <td><b>🎌 Anime</b></td>
 <td>
 
-<img src="https://cdn.simpleicons.org/crunchyroll/F47521" width="16"/> Frieren •
-One Piece •
-Solo Leveling •
-Attack on Titan •
-Chainsaw Man
+• Chainsaw Man
+• Da Da Dan
+• Ranma ½
+• Jujutsu Kaisen
+• JoJo's Bizarre Adventure
 
 </td>
 </tr>
@@ -147,12 +144,7 @@ Chainsaw Man
 <tr>
 <td><b>🎵 Music</b></td>
 <td>
-
-<img src="https://cdn.simpleicons.org/spotify/1DB954" width="16"/> K-Pop •
-J-Pop •
-Lo-fi •
-Rock •
-Game OSTs
+<a href="https://open.spotify.com/user/o504kw1rd0np9i5itgutk6sp5?si=9a8f95052fc24124">My Spotify Profile 🎵</a>
 
 </td>
 </tr>
@@ -160,11 +152,11 @@ Game OSTs
 <tr>
 <td><b>💻 Setup</b></td>
 <td>
-
-<img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="16"/> VS Code •
-<img src="https://cdn.simpleicons.org/windows11/0078D4" width="16"/> Windows •
-<img src="https://cdn.simpleicons.org/linux/FCC624" width="16"/> Linux •
-Mechanical Keyboard ⌨️
+• AMD Ryzen 5 3500u CPU
+• AMD Radeon Vega 8 GPU
+• 16GB DDR4 RAM
+• 500GB SSD Nvme M.2
+• 1TB HDD
 
 </td>
 </tr>
@@ -173,9 +165,10 @@ Mechanical Keyboard ⌨️
 <td><b>☕ Fuel</b></td>
 <td>
 
-Coffee ☕ •
-Coca-Cola 🥤 •
-Late-night coding 🌙
+• Coffee ☕ 
+• Coca-Cola 🥤 
+• Horchata de Chufa ⛱️
+
 
 </td>
 </tr>
