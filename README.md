@@ -1,34 +1,169 @@
-# ¡Hola a todos!, Hi everyone! Hallo!  👨‍💻🎮
+<div align="center">
 
-- Soy Diego Hernández, Soy desarrollador Web Full Stack | Desarrollador Android con un pequeño toque de diseñador gráfico. ¡No tengas miedo!, bienvenido a mi repositorio😎😉
-- My name is Diego Hernandez, I'm a Web developer with a little of graphic designer, Don't be scared!, Welcome to my repository😎😉 
+# Diego "Kabash" 👋
 
-![imagen acerca de mi](banner.jpg "Banner de un poco sobre mi")
+### Full Stack Developer • Systems Operator • Problem Solver
 
-<hr/>
-Siempre digo que poseo una personalidad dinámica y decidida, me adopto fácil a todos los problemas que se me presenten. Creatividad en cada idea, y entusiasmo por aprender algo nuevo cada día. 😼👊
-<br/><br/>
-I always say that I have a dynamic and determined personality, I easily adapt to all the problems that arise. Creativity in every idea and determined in my objectives, Learning something new everyday is the only thing that matters. 😼👊
-<hr/>
+Building modern web applications with **Next.js**, **React** and **TypeScript** while exploring backend, infrastructure and cloud technologies.
 
-## Un poco de mis conocimientos. A llitle about what I know...
+[🌐 Portfolio](https://kabash.dev) • [💼 LinkedIn](https://linkedin.com/in/TU_LINKEDIN) • [📧 Email](mailto:TU_EMAIL)
 
-- HTML & CSS
-- Javascript
-- Next JS
-- Angular JS
-- PHP
-- MySQL
-- React
-- Node JS
-- Amazon Web Services
-<hr/>
+---
 
-### What about me? ¿Y que hay sobre mi? 
+🇺🇸 English | 🇪🇸 Español
 
-- 🔭 Estoy en estos momentos realizando un Grado Superior en Desarrollo Multiplataforma /I  am currently doing a Higher Degree in Multiplatform Development
-- 🤔 I’m looking for help with making big proyects 
-- 💬 Ask me about Javascript, Node, React out anything!, I'll help you in what i can
-- 📫 How to reach me: Send me a Email [Write me here!](mailto:diegohs1503@gmail.com)
-- ⚡ Fun fact: I love playing The legend of Zelda, Resident Evil, Silent Hill and Valorant!🎮
-  
+</div>
+
+# 🇺🇸 English
+
+## About Me
+
+I'm Diego, a Full Stack Developer from Spain 🇪🇸.
+
+Currently working as a **Systems Operator at Alcampo**, where I solve technical incidents, automate processes and work with enterprise systems.
+
+Outside work, I enjoy building personal projects focused on clean architecture, performance and user experience.
+
+I'm always looking for new challenges and opportunities to improve as a developer.
+
+---
+
+## Tech Stack
+
+### Frontend
+
+Next.js • React • TypeScript • TailwindCSS
+
+### Backend
+
+Node.js • Express • Java • PHP
+
+### Database
+
+MySQL • PostgreSQL • SQLite
+
+### DevOps
+
+Docker • Linux • Nginx • Git • GitHub Actions
+
+---
+
+## What I'm working on
+
+- 🚀 Improving my portfolio
+- 🐳 Learning Docker & Kubernetes
+- ☁️ Exploring AWS
+- 📚 Studying software architecture
+- 💡 Building personal projects
+
+---
+
+## Featured Projects
+
+### 🌐 kabash.dev
+
+My personal portfolio built with Next.js.
+
+Focused on:
+
+- Performance
+- SEO
+- Accessibility
+- Responsive Design
+- Modern UI
+
+➡️ https://kabash.dev
+
+---
+
+## GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Kabash87&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kabash87&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+
+</p>
+
+---
+
+> "Code is not only about making it work, but making it understandable."
+
+---
+
+# 🇪🇸 Español
+
+## Sobre mí
+
+Soy Diego, desarrollador Full Stack de España 🇪🇸.
+
+Actualmente trabajo como **Operador de Sistemas en Alcampo**, donde resuelvo incidencias, automatizo procesos y trabajo con sistemas empresariales.
+
+Fuera del trabajo disfruto creando proyectos personales centrados en una buena arquitectura, rendimiento y experiencia de usuario.
+
+Siempre estoy buscando nuevos retos para seguir creciendo como desarrollador.
+
+---
+
+## Tecnologías
+
+### Frontend
+
+Next.js • React • TypeScript • TailwindCSS
+
+### Backend
+
+Node.js • Express • Java • PHP
+
+### Bases de datos
+
+MySQL • PostgreSQL • SQLite
+
+### DevOps
+
+Docker • Linux • Nginx • Git • GitHub Actions
+
+---
+
+## Actualmente
+
+- 🚀 Mejorando mi portfolio
+- 🐳 Aprendiendo Docker y Kubernetes
+- ☁️ Descubriendo AWS
+- 📚 Estudiando arquitectura de software
+- 💡 Creando proyectos personales
+
+---
+
+## Proyecto Destacado
+
+### 🌐 kabash.dev
+
+Mi portfolio personal desarrollado con Next.js.
+
+Centrado en:
+
+- Rendimiento
+- SEO
+- Accesibilidad
+- Diseño Responsive
+- UI moderna
+
+➡️ https://kabash.dev
+
+---
+
+## GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Kabash87&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kabash87&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+
+</p>
+
+---
+
+> "El código no solo debe funcionar; también debe ser fácil de entender."
