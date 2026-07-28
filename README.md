@@ -2,7 +2,7 @@
 
 Building modern web apps with **Next.js**, **React** and **TypeScript** while exploring backend, infrastructure and cloud technologies.
 
-[🌐 Portfolio](https://kabash.dev) • [💼 LinkedIn](https://linkedin.com/in/TU_LINKEDIN) • [📧 Email](mailto:TU_EMAIL)
+[🌐 Portfolio](https://kabash.dev) • [💼 LinkedIn](https://www.linkedin.com/in/diego-hern%C3%A1ndez-1a6423245/) • [📧 Email](mailto:diegohs1503@gmail.com)
 
 ---
 
