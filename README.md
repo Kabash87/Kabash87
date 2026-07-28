@@ -1,6 +1,4 @@
-# Diego Hernández "Kabash"
-
-### Full Stack Developer • Systems Operator
+![alt text](banner.gif)
 
 Building modern web apps with **Next.js**, **React** and **TypeScript** while exploring backend, infrastructure and cloud technologies.
 
